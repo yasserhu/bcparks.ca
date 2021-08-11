@@ -1,4 +1,4 @@
-name: Build Tools Branch
+name: Build Prod Branch
 on:
   push:
     branches: [prod]
